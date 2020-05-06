@@ -1,5 +1,6 @@
 {
   "name": "mutltilang-chat-application",
+  "homepage":"https://obscure-wave-79060.herokuapp.com/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
